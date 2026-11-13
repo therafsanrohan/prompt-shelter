@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+prompt_shelter.db
+prompt_shelter.db-*
+*.backup

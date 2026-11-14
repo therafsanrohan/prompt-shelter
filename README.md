@@ -15,23 +15,23 @@ All evaluations are performed locally with zero external telemetry or LLM infere
 
 ##  Key Features
 
-- ** 20 Specialized Detection Rules:** Built-in regex and heuristic patterns covering:
+-  20 Specialized Detection Rules: Built-in regex and heuristic patterns covering:
   - Role manipulation (`ignore previous instructions`, `DAN mode`)
   - Authority impersonation (`developer mode`, `system override`)
   - Boundary & delimiter attacks (XML tags, triple markdown exploits)
   - Credential & prompt leakage (`reveal system prompt`, `leak API keys`)
-- ** Zero External API Dependencies:** Instant local deterministic evaluation in sub-millisecond latency.
-- ** Real-Time Enterprise Dashboard:**
+-  Zero External API Dependencies: Instant local deterministic evaluation in sub-millisecond latency.
+-  Real-Time Enterprise Dashboard:
   - Executive security posture metrics (Safe, Suspicious, Malicious count)
   - Daily evaluation volume trends
   - Triggered category distribution charts
-- ** Interactive Prompt Scanner:**
+-  Interactive Prompt Scanner:
   - Real-time scoring, matched signature breakdown, and severity weights.
   - Safe & malicious sample presets for one-click testing.
-- ** Scan Audit History & Export:**
+-  Scan Audit History & Export:
   - Persistent SQLite storage for audit tracking.
   - Full-text search and CSV export capabilities.
-- ** Sleek Enterprise UI:**
+-  Sleek Enterprise UI:
   - Responsive collapsible sidebar with custom Lucide SVG line icons.
   - Strict light-theme typography and layout styling.
   - No dark-mode UI leaks or unstyled elements.

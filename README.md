@@ -1,7 +1,7 @@
 # Prompt Shelter 
 
-> **Enterprise AI Security & Prompt Injection Detection Platform**  
-> Protect LLM-backed applications against jailbreaks, system prompt extractions, role hijacking, and delimiter manipulation in real-time.
+ **Enterprise AI Security & Prompt Injection Detection Platform**  
+ Protect LLM-backed applications against jailbreaks, system prompt extractions, role hijacking, and delimiter manipulation in real-time.
 
 ---
 
